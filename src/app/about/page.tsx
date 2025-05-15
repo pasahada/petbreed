@@ -26,7 +26,7 @@ export default function AboutPage() {
               
               <h2 className="text-2xl font-semibold mt-10 mb-4">Our Mission</h2>
               <p className="text-lg mb-6">
-                At PetBreed, we believe that understanding your pet's breed-specific needs is essential for providing 
+                At PetBreed, we believe that understanding your pet&apos;s breed-specific needs is essential for providing 
                 the best care possible. Our mission is to make this information accessible to everyone, helping to 
                 create stronger bonds between pets and their owners.
               </p>
@@ -40,7 +40,7 @@ export default function AboutPage() {
               
               <h2 className="text-2xl font-semibold mt-10 mb-4">Contact Us</h2>
               <p className="text-lg">
-                Have questions or suggestions? We'd love to hear from you! Reach out to us at 
+                Have questions or suggestions? We&apos;d love to hear from you! Reach out to us at 
                 <a href="mailto:info@petbreed.com" className="text-blue-600 hover:underline"> info@petbreed.com</a>.
               </p>
             </div>

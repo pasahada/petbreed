@@ -17,7 +17,7 @@ export default function DashboardPage() {
                 <h2 className="text-xl font-semibold mb-4">Welcome to your PetBreed Dashboard</h2>
                 <p className="text-gray-600">
                   This is a protected page that requires authentication. In a complete implementation, 
-                  this page would show personalized content based on the logged-in user's data from Supabase.
+                  this page would show personalized content based on the logged-in user&apos;s data from Supabase.
                 </p>
               </div>
               
